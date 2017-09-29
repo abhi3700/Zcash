@@ -1,11 +1,11 @@
 
 Following are few applications of ZCash:-
 
-A. Supply Chain privacy- Companies want to keep their product details like launch date, price, etc. So, if this data wants to be stored in 
+A. Supply Chain privacy- Companies want to keep their product details like launch date, price, etc private. So, if this data is to be stored in 
 a blockchain, then we need to have validation like in case of ZCash mining algorithm. In this way, even the miners won't get to know about 
 what is getting stored in the Zcash's blockchain. 
 
 B. Location privacy- In today's digital world, one of the primary use being done with the help of our device is "Tracking Location". And 
-when it comes to us, we don't even know that we are being tracked down using our device's GPS sensor. For instance, if we want to give our 
-location digitally, we shall have to give the exact (Latitude, Longitude) of our place. But with the help of Zcash, we don't have to give 
-the exact co-ordinates. Just, the city would be enough. That's it!...Cool, eh?
+when it comes to us, we don't even know that we are being tracked down using our device's GPS sensor on realtime-basis. For instance, if we want to share our 
+location digitally, we shall have to give the exact Latitude, Longitude of that place. But with the help of Zcash, we don't have to give 
+the exact co-ordinates. Just, the city's name would be enough. That's it!...Cool, eh?
